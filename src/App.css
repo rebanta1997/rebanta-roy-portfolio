@@ -174,11 +174,26 @@ body {
 }
 
 .card {
+  position: relative;
+  overflow: hidden;
   background: #ffffff;
   border: 1px solid rgba(148, 163, 184, 0.2);
   border-radius: 28px;
   padding: 1.9rem;
   box-shadow: 0 22px 60px rgba(15, 23, 42, 0.08);
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  width: 120px;
+  height: 120px;
+  background: linear-gradient(135deg, rgba(56, 189, 248, 0.35), rgba(59, 130, 246, 0));
+  border-radius: 50%;
+  filter: blur(10px);
+  pointer-events: none;
 }
 
 .card-education {
@@ -194,6 +209,11 @@ body {
 .card-experience {
   background: linear-gradient(180deg, #f0fdfa 0%, #ffffff 100%);
   border-color: rgba(16, 185, 129, 0.25);
+}
+
+.card-wide {
+  grid-column: span 2;
+  min-height: 340px;
 }
 
 .card h2 {

@@ -127,3 +127,10 @@ yarn-debug.log*
 yarn-error.log*
 Resume_Rebanta.pdf
 public/resume.pdf
+public/Octocat.png
+public/logo192.png
+public/logo512.png
+src/logo.svg
+LICENSE
+jsconfig.json
+.vscode/

@@ -1,70 +1,58 @@
-# GitHub Codespaces ♥️ React
+# Rebanta Roy – AI/MLOps Portfolio
 
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+Professional portfolio showcasing AI engineering expertise, enterprise platform architecture, and 5+ years of experience at **LTIMindtree** (Bellevue, WA) building production-grade systems for Fortune 500 clients.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+## 🎯 Specializations
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+- **Agentic AI Systems** – GitHub Copilot Agents, Model Context Protocol (MCP) orchestration, multi-agent platforms
+- **Machine Learning Infrastructure** – ML pipelines, model training/deployment, inference optimization, error classification
+- **Azure Cloud Architecture** – Data Factory, Synapse, Functions, serverless patterns, observability infrastructure
+- **Enterprise Automation** – Production orchestration, incident correlation, error classification, compliance automation
+- **Platform Engineering** – REST APIs, TypeScript backends, Docker/Kubernetes, infrastructure-as-code
 
-This project was bootstrapped for you with [Vite](https://vitejs.dev/).
+## 📊 Key Projects
 
-## Available Scripts
+- **Compliance Orchestrator Agent** – GitHub Copilot agent with custom MCP servers, 6 declarative workflows, automated evaluation
+- **Agentic Error Classification** – 2-agent closed-loop system classifying 164 production error categories with 350+ rules
+- **ADF Observability Platform** – Monitoring 30+ production data factories with adaptive power-law threshold detection
+- **Enterprise MCP Hub** – Unified platform connecting 100+ tools with 8-module security and 11 purpose-built agents
+- **ML Inference Benchmarking** – Azure DevOps automation for Mistral with parallel accelerator validation
+- **Data Lineage Engine** – Hierarchy tracking for 7,000+ ADW/ADLS objects with interactive visualization
 
-In the project directory, you can run:
+## 🛠 Technical Stack
 
-### `npm start`
+**AI/ML:** Transformers, LSTM, CNN, LightGBM, XGBoost, TensorFlow, PyTorch, scikit-learn  
+**Cloud:** Azure (Data Factory, Synapse, Functions, DevOps, Monitor), AWS  
+**Languages:** Python, TypeScript, C++, SQL, Bash, PowerShell  
+**Infrastructure:** Docker, Kubernetes (AKS), Bicep, ARM, GitHub Actions  
+**Observability:** Application Insights, Log Analytics, Kusto (KQL), Power BI  
 
-We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
+## 🎓 Education
 
-Runs the app in the development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
+- **M.S. Robotics & Machine Learning** – New York University (2021) | GPA: 3.50/4.0
+- **M.S. Computer Science & Data Science** – Westcliff University (2024–Present) | GPA: 4.0/4.0
+- **B.Tech Mechanical Engineering & Automation** – KIIT University, India (2019) | GPA: 3.64/4.0
 
-The page will reload automatically when you make changes.\
-You may also see any lint errors in the console.
+## 💼 Career Timeline
 
-### `npm test`
+**LTIMindtree, Bellevue, WA** (5+ years):
+- **AI & MLOps Architect** (Dec 2025–Present) – Agentic AI systems, MCP orchestration, enterprise platforms
+- **AI Developer** (Mar 2023–Dec 2025) – Error classification, observability, ML infrastructure
+- **Azure Infrastructure Team Lead** (Sep 2022–Mar 2023) – Network engineering, cloud infrastructure
+- **Azure AI/ML Team Lead** (Feb–Sep 2022) – Led 12 engineers on Cognitive Services & ML platform
+- **Azure Cognitive Services / ML Engineer** (Aug 2021–Mar 2022) – Service delivery, ML solutions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔬 Research
 
-### `npm run build`
+**NYU Systems & Automatic Controls Lab** (Sep 2020–May 2022)  
+Real-time C++ data acquisition via NI DAQ hardware, PID/LQR controller design, stability analysis, automation research.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📱 Connect
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **GitHub:** [github.com/Rebanta08](https://github.com/Rebanta08)
+- **LinkedIn:** [linkedin.com/in/rr13](https://www.linkedin.com/in/rr13)
+- **Location:** Redmond, WA
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-## Learn More
-
-You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
-
-To learn Vitest, a Vite-native testing framework, go to [Vitest documentation](https://vitest.dev/guide/)
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://sambitsahoo.com/blog/vite-code-splitting-that-works.html](https://sambitsahoo.com/blog/vite-code-splitting-that-works.html)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf](https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf)
-
-### Advanced Configuration
-
-This section has moved here: [https://vitejs.dev/guide/build.html#advanced-base-options](https://vitejs.dev/guide/build.html#advanced-base-options)
-
-### Deployment
-
-This section has moved here: [https://vitejs.dev/guide/build.html](https://vitejs.dev/guide/build.html)
-
-### Troubleshooting
-
-This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+Built with **React + Vite**, deployed on **GitHub Pages**. For full details on experience, technical skills, and project breakdowns, visit the portfolio: https://rebanta1997.github.io/rebanta-roy-portfolio/
