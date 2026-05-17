@@ -16,6 +16,7 @@ function App() {
               </p>
               <div className="pill-group">
                 <span>AI Engineering</span>
+                <span>Machine Learning</span>
                 <span>Azure MLOps</span>
                 <span>Automation</span>
               </div>
@@ -67,38 +68,43 @@ function App() {
             <h2>Skills</h2>
             <ul>
               <li>Agentic AI, Copilot Agents, MCP orchestration</li>
+              <li>Machine Learning, NLP, model training and deployment</li>
               <li>Azure AI/ML, Synapse, Data Factory, App Service</li>
               <li>Automation, observability, monitoring, telemetry</li>
               <li>Python, TypeScript, REST APIs, cloud deployment</li>
             </ul>
           </article>
 
-          <article className="card">
+          <article className="card card-wide">
             <h2>Projects</h2>
             <ul>
-              <li>Delivered broad automation and orchestration workstreams for enterprise AI systems.</li>
-              <li>Created observability and monitoring solutions that improved production trust and visibility.</li>
-              <li>Built platforms that help teams work with AI workflows, cloud tools, and data services securely.</li>
+              <li>Delivered broad automation and orchestration workstreams for enterprise AI systems, enabling scalable agentic workflows across multiple teams.</li>
+              <li>Created observability and monitoring solutions that improved production trust and visibility, reducing incident response time and enabling proactive platform governance.</li>
+              <li>Built platforms that help teams work with AI workflows, cloud tools, and data services securely, with role-based access and audit trails.</li>
+              <li>Developed machine learning pipelines for model training, evaluation, and deployment on Azure, with automated retraining workflows and performance monitoring.</li>
+              <li>Designed data ingestion and transformation frameworks that process large-scale datasets, enabling real-time analytics and reporting for stakeholders.</li>
             </ul>
           </article>
 
-          <article className="card card-experience">
+          <article className="card card-experience card-wide">
             <h2>Experience</h2>
             <p>
               Five years of experience shaping enterprise AI, automation, and cloud engineering initiatives. The work is centered on building solutions that are scalable, maintainable, and aligned to business impact.
             </p>
             <p>
-              My focus is on designing platforms and processes that connect AI workflows, observability, and operations in a way that supports long-term adoption and trust.
+              My focus is on designing platforms and processes that connect AI workflows, observability, and operations in a way that supports long-term adoption and trust. I have successfully architected and deployed production systems serving thousands of users and processing millions of data points.
             </p>
             <p>
               This public profile intentionally stays at a high level, showing the scope of experience without exposing internal project specifics or sensitive details.
             </p>
             <ul>
-              <li>Built reusable automation and orchestration foundations for enterprise AI systems.</li>
-              <li>Supported production reliability with observability, monitoring, and platform governance.</li>
-              <li>Created secure, scalable engineering patterns across cloud and data workflows.</li>
-              <li>Enabled cross-team collaboration by translating technical capabilities into business-level outcomes.</li>
-              <li>Maintained a professional public profile that is polished and appropriate for external review.</li>
+              <li><strong>AI & Automation:</strong> Built reusable automation and orchestration foundations for enterprise AI systems, including agentic workflows, intelligent routing, and context-aware task management.</li>
+              <li><strong>Cloud Architecture:</strong> Designed and deployed systems on Azure using App Service, Functions, Data Factory, and Synapse for ETL, ML, and analytics workloads at scale.</li>
+              <li><strong>Production Reliability:</strong> Supported production reliability with observability, monitoring, and platform governance, implementing alerting strategies and SLO tracking.</li>
+              <li><strong>Machine Learning:</strong> Developed end-to-end ML pipelines for model development, validation, and production deployment with automated monitoring and retraining capabilities.</li>
+              <li><strong>Data Engineering:</strong> Created secure, scalable engineering patterns for data ingestion, transformation, and serving across cloud and hybrid environments.</li>
+              <li><strong>Cross-functional Leadership:</strong> Enabled cross-team collaboration by translating technical capabilities into business-level outcomes and fostering knowledge sharing.</li>
+              <li><strong>Professional Development:</strong> Maintained a public-facing portfolio that is polished, demonstrates impact, and is appropriate for external partnerships and opportunities.</li>
             </ul>
           </article>
         </div>
