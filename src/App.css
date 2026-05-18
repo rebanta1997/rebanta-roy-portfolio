@@ -291,8 +291,19 @@ body {
 .card-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.8rem;
+  gap: 1rem;
   margin-top: 0.8rem;
+}
+
+.card-links-wide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-links-wide .card-links {
+  gap: 1.2rem;
+  justify-content: flex-start;
 }
 
 .link-badge {
